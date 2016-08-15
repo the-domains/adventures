@@ -1,0 +1,14 @@
+layout_spectrum: 0.08849309827201068
+typography_spectrum: 0.6143727556336671
+color:
+  brandStrength: 0.018517169635742903
+  lightness: 0.8846894025336951
+  saturation: 0.9537274884060025
+  rhythmicContrast: 0.8166525887791067
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Adventures
